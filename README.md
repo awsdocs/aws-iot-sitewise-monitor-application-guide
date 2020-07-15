@@ -1,11 +1,6 @@
-## My Project
+## AWS IoT SiteWise Monitor - Application Guide
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+The open source version of the [AWS IoT SiteWise Monitor Application Guide](https://docs.aws.amazon.com/iot-sitewise/latest/appguide/what-is-monitor-app.html). You can submit feedback and requests for changes by submitting issues in this repository.
 
 ## Security
 
