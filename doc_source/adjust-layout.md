@@ -9,4 +9,4 @@ As the project owner, you can choose the best visualizations for your asset prop
 
 1. To change the size of a visualization, use the resize control in the lower right\. Drag the corner to a new size and shape\. Visualizations snap to the grid when resized, so you only have coarse control over the size\.
 
-1. <a name="dashboard-save-changes"></a>When you finish editing the dashboard, choose **Save dashboard** to save your changes\. The dashboard editor closes\. If you try to close a dashboard that has unsaved changes, you'll be prompted to save them\.
+1. <a name="dashboard-save-changes"></a>After you finish editing the dashboard, choose **Save dashboard** to save your changes\. The dashboard editor closes\. If you try to close a dashboard that has unsaved changes, you're prompted to save them\.

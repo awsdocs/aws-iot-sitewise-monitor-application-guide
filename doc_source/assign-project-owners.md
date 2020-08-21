@@ -16,7 +16,7 @@
 1. In the **Project owners** dialog box, select the check boxes for the users to be owners for this project\.  
 ![\[Shows the "Project owners" dialog.\]](http://docs.aws.amazon.com/iot-sitewise/latest/appguide/images/project-choose-owners-console.png)
 **Note**  
-You can only add project owners if they're portal users\. If you don't see a user listed, contact your IT administrator to add them to the list of portal users\.
+You can only add project owners if they're portal users\. If you don't see a user listed, contact your AWS administrator to add them to the list of portal users\.
 
 1. Choose the **>>** icon to add those users as project owners\.
 

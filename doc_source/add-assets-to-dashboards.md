@@ -13,14 +13,11 @@ You can add asset properties to a new dashboard or an existing dashboard\.
 ![\[The "Projects" icon in the navigation bar.\]](http://docs.aws.amazon.com/iot-sitewise/latest/appguide/images/portal-navigation-projects-console.png)
 
 1. Choose one of the following options:
-   + To add asset properties to an existing dashboard, choose the dashboard to update\.
+   + To add asset properties to an existing dashboard, choose the dashboard to update, and then choose **Edit**\.
    + To add asset properties to a new dashboard, choose **Create dashboard**\.  
 ![\[The "Dashboards" page with an existing dashboard and "Create dashboard" highlighted.\]](http://docs.aws.amazon.com/iot-sitewise/latest/appguide/images/project-create-or-modify-dashboard-console.png)
 
-1. <a name="dashboard-edit-dashboard"></a>In the dashboard, choose **Edit**\.  
-![\[The blank dashboard.\]](http://docs.aws.amazon.com/iot-sitewise/latest/appguide/images/dashboard-view-blank-dashboard-console.png)
-
 1. Drag a property from the asset hierarchy to the dashboard\. You can add multiple properties to one visualization\.  
-![\[A dashboard with a callout highlighting an asset property that you can drag onto the dashboard.\]](http://docs.aws.amazon.com/iot-sitewise/latest/appguide/images/dashboard-edit-blank-dashboard-console.png)
+![\[A dashboard with a callout highlighting an asset property that you can drag onto the dashboard.\]](http://docs.aws.amazon.com/iot-sitewise/latest/appguide/images/dashboard-add-visualization-console.png)
 
    The asset property appears on the dashboard with a default visualization type\. You can change the visualization type and customize the visualization settings\. For more information, see [Customizing visualizations](customize-visualizations.md)\.

@@ -1,8 +1,8 @@
 # Configuring thresholds<a name="configure-thresholds"></a>
 
-As a project owner, you can configure thresholds for your visualizations to indicate when asset properties are outside their normal operating ranges\. When you add a threshold, you define a rule and a color\. When the threshold rule is true for at least one of a property's data points in the selected time range, the visualization displays that property's legends in the threshold color\. You can add multiple thresholds to each visualization, and choose colors to represent severities\.
+As a project owner, you can configure thresholds for your visualizations to indicate when asset properties are outside their normal operating ranges\. When you add a threshold, you define a rule and a color\. If at least one of a property's data points crosses the threshold for a selected time range, the visualization displays that property's legend in the color that you choose\. You can add multiple thresholds to each visualization, and choose colors to represent severities\.
 
-The following is an example visualization with a threshold\. This threshold indicates when a wind farm's total power output is less than **30,000**\.
+In the following example, this threshold indicates when a wind farm's total power output is less than **30,000** watts\. The threshold rule appears in green in the legend below the chart\. 
 
 ![\[A line graph visualization with a threshold.\]](http://docs.aws.amazon.com/iot-sitewise/latest/appguide/images/dashboard-threshold-line-graph-console.png)
 
@@ -39,11 +39,11 @@ You can add up to six thresholds to each visualization\.
 
 1. Choose a threshold color\. The visualization displays property legends in this color for properties with at least one data point that meets the threshold rule\. You can use the color picker, enter a hexadecimal color code, or enter color component values\.
 
-1. <a name="dashboard-save-changes"></a>When you finish editing the dashboard, choose **Save dashboard** to save your changes\. The dashboard editor closes\. If you try to close a dashboard that has unsaved changes, you'll be prompted to save them\.
+1. <a name="dashboard-save-changes"></a>After you finish editing the dashboard, choose **Save dashboard** to save your changes\. The dashboard editor closes\. If you try to close a dashboard that has unsaved changes, you're prompted to save them\.
 
 ## Removing a threshold from a visualization<a name="remove-threshold"></a>
 
-As a project owner, if you decide that a threshold isn't needed, you can remove it from a visualization\.
+As a project owner, you can remove a threshold from a visualization if you no longer need it\.
 
 **To remove a threshold from a visualization**
 
@@ -52,4 +52,4 @@ As a project owner, if you decide that a threshold isn't needed, you can remove 
 1. Choose the **X** icon for the threshold to remove\.  
 ![\[A visualization threshold with the remove icon highlighted.\]](http://docs.aws.amazon.com/iot-sitewise/latest/appguide/images/dashboard-remove-threshold-console.png)
 
-1. <a name="dashboard-save-changes"></a>When you finish editing the dashboard, choose **Save dashboard** to save your changes\. The dashboard editor closes\. If you try to close a dashboard that has unsaved changes, you'll be prompted to save them\.
+1. <a name="dashboard-save-changes"></a>After you finish editing the dashboard, choose **Save dashboard** to save your changes\. The dashboard editor closes\. If you try to close a dashboard that has unsaved changes, you're prompted to save them\.

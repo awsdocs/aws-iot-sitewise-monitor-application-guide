@@ -14,17 +14,17 @@ The following procedure assumes that you signed in the AWS IoT SiteWise Monitor 
 
 **To explore asset data and add asset to projects**
 
-1. In the navigation bar, choose the **Asset library** icon\.  
-![\[The "Asset library" icon in the navigation bar.\]](http://docs.aws.amazon.com/iot-sitewise/latest/appguide/images/portal-navigation-asset-library-console.png)
+1. In the navigation bar, choose the **Assets** icon\.  
+![\[The "Assets" icon in the navigation bar.\]](http://docs.aws.amazon.com/iot-sitewise/latest/appguide/images/portal-navigation-asset-library-console.png)
 
-   The **Asset library** page appears\.  
-![\[The "Asset Library" page.\]](http://docs.aws.amazon.com/iot-sitewise/latest/appguide/images/asset-library-portal-admin-console.png)
+   The **Assets** page appears\.  
+![\[The "Assets" page.\]](http://docs.aws.amazon.com/iot-sitewise/latest/appguide/images/asset-library-portal-admin-console.png)
 
    See the following areas of the page\.    
 [\[See the AWS documentation website for more details\]](http://docs.aws.amazon.com/iot-sitewise/latest/appguide/portal-admin-getting-started.html)
 
 1. <a name="asset-library-choose-asset"></a>Choose an asset in the **Assets** hierarchy, and then choose **Add asset to project**\.  
-![\[The asset library page with the asset hierarchy and "Add assets to project" highlighted.\]](http://docs.aws.amazon.com/iot-sitewise/latest/appguide/images/asset-library-add-asset-to-project-console.png)
+![\[The "Assets" page with the asset hierarchy and "Add assets to project" highlighted.\]](http://docs.aws.amazon.com/iot-sitewise/latest/appguide/images/asset-library-add-asset-to-project-console.png)
 **Note**  
 You can add only a single node hierarchy \(an asset and all assets that are subordinate to that asset\) to a project\. To create a dashboard to compare two assets that are children of a common parent asset, add that common parent to the project\.
 
@@ -62,7 +62,7 @@ You can add only a single node hierarchy \(an asset and all assets that are subo
 1. In the **Project owners** dialog box, select the check boxes for the users to be owners for this project\.  
 ![\[Shows the "Project owners" dialog.\]](http://docs.aws.amazon.com/iot-sitewise/latest/appguide/images/project-choose-owners-console.png)
 **Note**  
-You can only add project owners if they're portal users\. If you don't see a user listed, contact your IT administrator to add them to the list of portal users\.
+You can only add project owners if they're portal users\. If you don't see a user listed, contact your AWS administrator to add them to the list of portal users\.
 
 1. Choose the **>>** icon to add those users as project owners\.
 

@@ -10,15 +10,12 @@ As a project owner, you create dashboards in AWS IoT SiteWise Monitor to provide
 1. On the **Dashboards** page, choose **Create dashboard**\.  
 ![\[The dashboards list with "Create dashboard" highlighted.\]](http://docs.aws.amazon.com/iot-sitewise/latest/appguide/images/dashboards-create-dashboard-console.png)
 
-1. <a name="dashboard-edit-dashboard"></a>In the dashboard, choose **Edit**\.  
-![\[The blank dashboard.\]](http://docs.aws.amazon.com/iot-sitewise/latest/appguide/images/dashboard-view-blank-dashboard-console.png)
-
-1. <a name="dashboard-configure-dashboard"></a>In the dashboard editor, change the dashboard name from the default, **Untitled Dashboard**, to something that describes the content****\.  
+1. <a name="dashboard-configure-dashboard"></a>In the dashboard editor, change the dashboard name from the default, **New dashboard**, to something that describes the content****\.  
 ![\[The dashboard editor.\]](http://docs.aws.amazon.com/iot-sitewise/latest/appguide/images/dashboard-name-dashboard-console.png)
 
 1. <a name="dashboard-add-visualizations-link"></a>Add one or more visualizations\. For more information, see [Adding visualizations](add-visualizations.md)\.
 
-1. <a name="dashboard-save-changes"></a>When you finish editing the dashboard, choose **Save dashboard** to save your changes\. The dashboard editor closes\. If you try to close a dashboard that has unsaved changes, you'll be prompted to save them\.
+1. <a name="dashboard-save-changes"></a>After you finish editing the dashboard, choose **Save dashboard** to save your changes\. The dashboard editor closes\. If you try to close a dashboard that has unsaved changes, you're prompted to save them\.
 
 **To create a dashboard while viewing a project's details**
 
@@ -31,12 +28,9 @@ As a project owner, you create dashboards in AWS IoT SiteWise Monitor to provide
 1. <a name="project-create-dashboard"></a>In the **Dashboards** section, choose **Create dashboard**\.  
 ![\[The dashboards list on the project details page with "Create dashboard" highlighted.\]](http://docs.aws.amazon.com/iot-sitewise/latest/appguide/images/project-create-dashboard-console.png)
 
-1. <a name="dashboard-edit-dashboard"></a>In the dashboard, choose **Edit**\.  
-![\[The blank dashboard.\]](http://docs.aws.amazon.com/iot-sitewise/latest/appguide/images/dashboard-view-blank-dashboard-console.png)
-
-1. <a name="dashboard-configure-dashboard"></a>In the dashboard editor, change the dashboard name from the default, **Untitled Dashboard**, to something that describes the content****\.  
+1. <a name="dashboard-configure-dashboard"></a>In the dashboard editor, change the dashboard name from the default, **New dashboard**, to something that describes the content****\.  
 ![\[The dashboard editor.\]](http://docs.aws.amazon.com/iot-sitewise/latest/appguide/images/dashboard-name-dashboard-console.png)
 
 1. <a name="dashboard-add-visualizations-link"></a>Add one or more visualizations\. For more information, see [Adding visualizations](add-visualizations.md)\.
 
-1. <a name="dashboard-save-changes"></a>When you finish editing the dashboard, choose **Save dashboard** to save your changes\. The dashboard editor closes\. If you try to close a dashboard that has unsaved changes, you'll be prompted to save them\.
+1. <a name="dashboard-save-changes"></a>After you finish editing the dashboard, choose **Save dashboard** to save your changes\. The dashboard editor closes\. If you try to close a dashboard that has unsaved changes, you're prompted to save them\.

@@ -19,7 +19,7 @@ You must be a project owner or portal administrator to assign viewers to a proje
 1. In the **Project viewers** dialog box, select the check boxes for the users to be viewers for this project\.  
 ![\[Shows the "Project viewers" dialog.\]](http://docs.aws.amazon.com/iot-sitewise/latest/appguide/images/project-choose-viewers-console.png)
 **Note**  
-You can only add viewers if they're portal users\. If you don't see a user listed, contact your IT administrator to add them to the list of portal users\.
+You can only add viewers if they're portal users\. If you don't see a user listed, contact your AWS administrator to add them to the list of portal users\.
 
 1. Choose the **>>** icon to add those users as project viewers\.
 
@@ -33,7 +33,7 @@ You can only add viewers if they're portal users\. If you don't see a user liste
 ![\[The "Projects" icon in the navigation bar.\]](http://docs.aws.amazon.com/iot-sitewise/latest/appguide/images/portal-navigation-projects-console.png)
 
 1. On the **Projects** page, choose the project to which to invite project viewers\.  
-![\[The "Projects" page with "Create project" highlighted.\]](http://docs.aws.amazon.com/iot-sitewise/latest/appguide/images/projects-portal-admin-choose-project-console.png)
+![\[The "Projects" page with "Create project" highlighted.\]](http://docs.aws.amazon.com/iot-sitewise/latest/appguide/images/projects-portal-user-choose-project-console.png)
 
 1. In the **Project viewers** section of the project details page, select the check boxes for the project viewers to receive an email, and then choose **Send invitations**\.  
 ![\[The "Project viewers" section of the project details page.\]](http://docs.aws.amazon.com/iot-sitewise/latest/appguide/images/project-invite-viewers-console.png)

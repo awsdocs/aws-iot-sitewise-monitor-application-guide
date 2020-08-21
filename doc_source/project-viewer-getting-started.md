@@ -1,6 +1,6 @@
 # Getting started as an AWS IoT SiteWise Monitor project viewer<a name="project-viewer-getting-started"></a>
 
-When you're invited to a project as a viewer, someone in your organization has set up a project and a set of dashboards to provide you with a consistent way to view data for your company's devices, equipment, and processes\. In AWS IoT SiteWise, those devices, equipment, and processes are referred to as assets\. AWS IoT SiteWise Monitor provides you with an easy way to view the properties of a set of assets\. Because the project owner has set up dashboards to visualize those properties, everyone who views the project has the same view of the data and can draw insights from the data\. As a project viewer, you can view all of the dashboards in the project\. You can adjust the time frame for the data shown in the dashboard\. And you can explore the properties of individual assets to see a property that isn't on the dashboard\.
+When you're invited to a project as a viewer, someone in your organization has set up a project and a set of dashboards to provide you with a consistent way to view data for your company's devices, equipment, and processes\. In AWS IoT SiteWise, those devices, equipment, and processes are referred to as assets\. AWS IoT SiteWise Monitor provides you with an easy way to view the properties of a set of assets\. Because the project owner has set up dashboards to visualize those properties, everyone who views the project has the same view of the data and can draw insights from the data\. As a project viewer, you can view all of the dashboards in the project\. You can adjust the time range for the data shown in the dashboard\. And you can explore the properties of individual assets to see a property that isn't on the dashboard\.
 
 You can only view the assets that are associated with the project to which you've been invited\. To request additional assets, contact your project owner\. The project owner can also update the dashboards to change the visualizations or show additional properties\.
 
@@ -11,7 +11,7 @@ As a project viewer, you can do the following tasks:
 
 ## Exploring shared dashboards<a name="project-viewer-exploring-dashboards"></a>
 
-As a viewer for one or more AWS IoT SiteWise Monitor projects, you can view the dashboards to understand the data for your devices, equipment, and processes\. You can adjust the time frame for the visualizations in each dashboard to gain insights into your data\.
+As a viewer for one or more AWS IoT SiteWise Monitor projects, you can view the dashboards to understand the data for your devices, equipment, and processes\. You can adjust the time range for the visualizations in each dashboard to gain insights into your data\.
 
 The following procedure assumes that you are signed in the AWS IoT SiteWise Monitor portal\.
 
@@ -36,7 +36,6 @@ The following procedure assumes that you are signed in the AWS IoT SiteWise Moni
    + <a name="modify-visualization-shift-range"></a>Press Shift and then drag the mouse on a time range to shift the range left or right\.
    + <a name="modify-visualization-predefined-time"></a>Use the drop\-down list to choose a predefined time range to view\.
    + Use the time range control to open the calendar and specify a start and end time for your range\.
-   + <a name="modify-visualization-restore-live"></a>Choose **LIVE** to restore the time range to its default setting\.
 
    Each visualization shows the latest reported value for the selected time range\.
 
@@ -52,10 +51,10 @@ As a project viewer, you can view only those assets that are contained in projec
 The following procedure assumes that you signed in the AWS IoT SiteWise Monitor portal\.
 
 **To explore project assets and their data**
-+ In the navigation bar, choose the **Asset library** icon\.  
-![\[The "Asset library" icon in the navigation bar.\]](http://docs.aws.amazon.com/iot-sitewise/latest/appguide/images/portal-navigation-asset-library-console.png)
++ In the navigation bar, choose the **Assets** icon\.  
+![\[The "Assets" icon in the navigation bar.\]](http://docs.aws.amazon.com/iot-sitewise/latest/appguide/images/portal-navigation-asset-library-console.png)
 
-  The **Asset library** page appears\.  
+  The **Assets** page appears\.  
 ![\[The "Asset library" page.\]](http://docs.aws.amazon.com/iot-sitewise/latest/appguide/images/asset-library-project-owner-console.png)
 
   See the following areas of the page\.    

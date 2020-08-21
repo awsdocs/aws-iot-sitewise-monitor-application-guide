@@ -29,7 +29,7 @@ After you create a dashboard and add your visualizations, you can update your da
 
    You can now rename the dashboard, or add, remove, or modify visualizations\. 
 
-1. <a name="dashboard-save-changes"></a>When you finish editing the dashboard, choose **Save dashboard** to save your changes\. The dashboard editor closes\. If you try to close a dashboard that has unsaved changes, you'll be prompted to save them\.
+1. <a name="dashboard-save-changes"></a>After you finish editing the dashboard, choose **Save dashboard** to save your changes\. The dashboard editor closes\. If you try to close a dashboard that has unsaved changes, you're prompted to save them\.
 
 ## Dragging a property to a dashboard<a name="dragging-properties-to-dashboards"></a>
 
@@ -45,6 +45,7 @@ You can drag multiple properties onto a single visualization\.
 
    For more information about the available visualization types, see [Choosing visualization types](choose-visualization-types.md)\. To customize details of the visualization, see [Customizing visualizations](customize-visualizations.md)\.
 
-1. <a name="dashboard-configure-thresholds"></a>To add thresholds to your property, choose the visualization configuration icon\. For more information, see [Configuring thresholds](configure-thresholds.md)\.
+1. <a name="dashboard-configure-thresholds"></a>To add thresholds to your property, choose the visualization configuration icon\. For more information, see [Configuring thresholds](configure-thresholds.md)\.  
+![\[A sample visualization with the visualization configuration icon highlighted.\]](http://docs.aws.amazon.com/iot-sitewise/latest/appguide/images/dashboard-edit-visualization-configuration-console.png)
 
 1. To move or resize your visualization, see [Adjusting dashboard layout](adjust-layout.md)\.

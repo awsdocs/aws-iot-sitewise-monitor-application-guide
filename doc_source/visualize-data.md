@@ -12,7 +12,6 @@ You can perform the following data visualization tasks:
 |  [Viewing dashboards](view-dashboards.md)  |  Portal administrator, project owner, and project viewer  |  View the dashboards to which you have been given access\.  | 
 |  [Creating dashboards](create-dashboards.md)  |  Portal administrator, project owner  |  Create a dashboard in a project\.  | 
 |  [Adding visualizations](add-visualizations.md)  |  Portal administrator, project owner  |  Add a visualization to a dashboard\.  | 
-|  [Customizing visualizations](customize-visualizations.md)  |  Portal administrator, project owner  |  Change the type of visualization \(line, bar, KPI, and so on\) and configure details for a visualization, such as line color\.  | 
-|  [Configuring thresholds](configure-thresholds.md)  |  Portal administrator, project owner  |  Configure thresholds to display data that exceeds normal operating ranges\.  | 
+|  [Customizing visualizations](customize-visualizations.md)  |  Portal administrator, project owner  |  Change the type of visualization and configure other features, such as thresholds and trend lines\.  | 
 |  [Adjusting dashboard layout](adjust-layout.md)  |  Portal administrator, project owner  |  Change the size or location of visualizations in a dashboard\.  | 
 |  [Deleting dashboards](delete-dashboards.md)  |  Portal administrator, project owner  |  Delete dashboards that you don't need\.  | 
