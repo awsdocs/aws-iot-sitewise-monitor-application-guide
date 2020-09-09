@@ -11,4 +11,3 @@ You can use the following shortcuts to quickly perform certain tasks in AWS IoT 
 | Press Shift and double\-click mouse | Zoom out a visualization at the selected point\. | 
 | Drag mouse | Zoom in a visualization to a selected time range\. | 
 | Press Shift and drag mouse | Shift a visualization's time range left or right\. | 
-| Press Shift and click mouse | Select multiple items in a list \(for example, assets in the asset explorer\)\. | 

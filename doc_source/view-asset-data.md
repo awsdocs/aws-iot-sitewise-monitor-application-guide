@@ -28,5 +28,5 @@ On the **Assets** page, you can look at all properties of any asset that is asso
    + <a name="modify-visualization-predefined-time"></a>Use the drop\-down list to choose a predefined time range to view\.
    + Use the time range control to open the calendar and specify a start and end time for your range\.
 
-1. Choose two or more similar assets to compare their properties and property values\. Press Shift to select multiple assets\.  
+1. Select the check boxes for two or more assets to compare their properties and property values\.  
 ![\[The "Assets" page, with two equipment assets selected, and their properties displayed side-by-side.\]](http://docs.aws.amazon.com/iot-sitewise/latest/appguide/images/asset-library-compare-assets-console.png)
