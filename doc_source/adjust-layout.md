@@ -1,6 +1,6 @@
 # Adjusting dashboard layout<a name="adjust-layout"></a>
 
-As the project owner, you can choose the best visualizations for your asset properties, and you can adjust the size and location of your visualizations in the dashboard\.
+As the project owner, you can choose the best visualizations for your asset properties and alarms, and you can adjust the size and location of your visualizations in the dashboard\.
 
 **To adjust your layout**
 

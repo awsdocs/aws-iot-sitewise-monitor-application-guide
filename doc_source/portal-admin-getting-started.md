@@ -1,6 +1,6 @@
 # Getting started as an AWS IoT SiteWise Monitor portal administrator<a name="portal-admin-getting-started"></a>
 
-As the portal administrator, you create projects and associate assets with those projects\. You specify an owner for each project\. The project owner can then create dashboards with visualizations of the property values\. Only portal administrators can create projects, assign owners, and change the list of assets associated with each project\. As the portal administrator, you can do the following tasks:
+As the portal administrator, you create projects and associate assets with those projects\. You specify an owner for each project\. The project owner can then create dashboards with visualizations of the property values and alarms\. Only portal administrators can create projects, assign owners, and change the list of assets associated with each project\. As the portal administrator, you can do the following tasks:
 + [Signing in to a portal](getting-started.md#portal-login)
 + [Exploring asset data and adding assets to projects](#portal-admin-exploring-assets)
 + [Assigning owners to the project](#portal-admin-inviting-owners)
@@ -8,7 +8,7 @@ As the portal administrator, you create projects and associate assets with those
 
 ## Exploring asset data and adding assets to projects<a name="portal-admin-exploring-assets"></a>
 
-You can explore the list of assets to which you have access to view their properties, and compare property values between two assets\. As the portal administrator, you can add assets to a project to make them available to the project owner\. The project owner can then create dashboards to give other subject matter experts a common view of the asset properties\.
+You can explore the list of assets to which you have access to view their properties and alarms\. As the portal administrator, you can add assets to a project to make them available to the project owner\. The project owner can then create dashboards to give other subject matter experts a common view of the asset properties and alarms\.
 
 The following procedure assumes that you signed in the AWS IoT SiteWise Monitor portal\.
 

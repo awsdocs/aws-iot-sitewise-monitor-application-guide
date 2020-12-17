@@ -1,6 +1,6 @@
 # Sharing data with AWS IoT SiteWise Monitor projects<a name="share-data"></a>
 
-In AWS IoT SiteWise Monitor, you share data by inviting viewers to a project\. Viewers can view all assets, asset properties, and dashboards in the project\. You can create multiple projects to give groups of viewers access to different sets of assets and dashboards\. Only portal administrators can create and update projects and associate assets with projects\. Project owners create and update dashboards and invite viewers to projects\.
+In AWS IoT SiteWise Monitor, you share data by inviting viewers to a project\. Viewers can view all assets, asset properties, alarms, and dashboards in the project\. You can create multiple projects to give groups of viewers access to different sets of assets and dashboards\. Only portal administrators can create and update projects and associate assets with projects\. Project owners create and update dashboards and invite viewers to projects\.
 
 Your AWS administrator chooses the portal administrators\. Your portal administrators assign assets to projects and assign owners to those projects\. The project owner invites viewers to a project\. At each step, these users decide who has access to your data and what type of access they have\.
 

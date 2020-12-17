@@ -1,8 +1,8 @@
 # Getting started as an AWS IoT SiteWise Monitor project viewer<a name="project-viewer-getting-started"></a>
 
-When you're invited to a project as a viewer, someone in your organization has set up a project and a set of dashboards to provide you with a consistent way to view data for your company's devices, equipment, and processes\. In AWS IoT SiteWise, those devices, equipment, and processes are referred to as assets\. AWS IoT SiteWise Monitor provides you with an easy way to view the properties of a set of assets\. Because the project owner has set up dashboards to visualize those properties, everyone who views the project has the same view of the data and can draw insights from the data\. As a project viewer, you can view all of the dashboards in the project\. You can adjust the time range for the data shown in the dashboard\. And you can explore the properties of individual assets to see a property that isn't on the dashboard\.
+When you're invited to a project as a viewer, someone in your organization has set up a project and a set of dashboards to provide you with a consistent way to view data for your company's devices, equipment, and processes\. In AWS IoT SiteWise, those devices, equipment, and processes are referred to as assets\. You can use AWS IoT SiteWise Monitor to view the properties and alarms for a set of assets\. Because the project owner has set up dashboards to visualize those properties, everyone who views the project has the dahboard view to draw insights from the data\. As a project viewer, you can view all of the dashboards in the project\. You can adjust the time range for the data shown in the dashboard\. And you can explore the properties and alarms of individual assets to see a property or alarm that isn't on the dashboard\.
 
-You can only view the assets that are associated with the project to which you've been invited\. To request additional assets, contact your project owner\. The project owner can also update the dashboards to change the visualizations or show additional properties\.
+You can only view the assets that are associated with the project to which you've been invited\. To request additional assets, contact your project owner\. The project owner can also update the dashboards to change the visualizations or show additional properties and alarms\.
 
 As a project viewer, you can do the following tasks:
 + [Signing in to a portal](getting-started.md#portal-login)
@@ -43,7 +43,7 @@ The following procedure assumes that you are signed in the AWS IoT SiteWise Moni
 
 ## Exploring project assets and their data<a name="project-viewer-exploring-assets"></a>
 
-While you will typically use the dashboards that the project owner prepared for you, you can also view property values for the assets included in a project\. You might, for example, want to check the model, install date, or location for a piece of equipment\.
+While you will typically use the dashboards that the project owner prepared for you, you can also view properties and alarms for the assets included in a project\. For example, you might check the model, install date, or location for a piece of equipment\.
 
 **Note**  
 As a project viewer, you can view only those assets that are contained in projects to which you have access\.

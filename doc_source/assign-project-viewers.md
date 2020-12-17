@@ -1,6 +1,6 @@
 # Assigning project viewers<a name="assign-project-viewers"></a>
 
-As a project owner or portal administrator, you typically assign viewers to your project after you define a set of dashboards to provide a common view of asset properties to those viewers\.
+As a project owner or portal administrator, you typically assign viewers to your project after you define a set of dashboards to provide a common view of asset properties and alarms to those viewers\.
 
 **Note**  
 You must be a project owner or portal administrator to assign viewers to a project\.<a name="add-viewers-project"></a>

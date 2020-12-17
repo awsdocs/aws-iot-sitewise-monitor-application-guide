@@ -1,10 +1,14 @@
 # Document history for the AWS IoT SiteWise Monitor Application Guide<a name="document-history"></a>
 
 The following table describes the documentation for this release of AWS IoT SiteWise\.
-+ **Latest documentation update:** August 20, 2020
++ **Latest documentation update:** December 15, 2020
 
 | Change | Description | Date | 
 | --- |--- |--- |
+| [Alarms](https://docs.aws.amazon.com/iot-sitewise/latest/appguide/monitor-alarms.html) | Added information about support for alarms in SiteWise Monitor\. You can visualize, configure, and respond to alarms to monitor your equipment and processes\. | December 15, 2020 | 
+| [Table visualization types](https://docs.aws.amazon.com/iot-sitewise/latest/appguide/choose-visualization-types.html#table-widgets) | Added information about the table visualization type\. You can use table widgets to display information about multiple properties in a compact visualization\. | November 24, 2020 | 
+| [Status property value labels](https://docs.aws.amazon.com/iot-sitewise/latest/appguide/choose-visualization-types.html#configure-status-widgets) | Added information about how to toggle asset property unit and value labels for status widgets\. | November 5, 2020 | 
+| [Status visualization types](https://docs.aws.amazon.com/iot-sitewise/latest/appguide/choose-visualization-types.html#status-widgets) | Added information about the status visualization type\. You can use status widgets to display properties' current or historical status\. | October 16, 2020 | 
 | [Visualization trend lines](https://docs.aws.amazon.com/iot-sitewise/latest/appguide/configure-trend-lines.html) | Added information about how to configure trend lines for visualizations\. You can display linear regressions for your data to visualize and identify trends\. | August 20, 2020 | 
 | [Scatter visualization type](https://docs.aws.amazon.com/iot-sitewise/latest/appguide/choose-visualization-types.html#scatter-charts) | Added information about the scatter visualization type\. You can use a scatter chart to display individual data points without lines between them\. | July 21, 2020 | 
 | [Visualization thresholds](https://docs.aws.amazon.com/iot-sitewise/latest/appguide/configure-thresholds.html) | Added information about how to configure thresholds for your visualizations to indicate when data is outside normal operating ranges\. | July 1, 2020 | 

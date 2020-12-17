@@ -1,6 +1,8 @@
 # Viewing asset data<a name="view-asset-data"></a>
 
-On the **Assets** page, you can look at all properties of any asset that is associated with the projects to which you have access\. Portal administrators have access to all assets in the portal and can use the **Assets** page to explore individual assets before adding them to projects\. Dashboards provide a common visualization for all project viewers\. The following procedures describe how to view asset data on the **Assets** page and how to view asset data from a project page\. For information about viewing asset data in dashboards, see [Viewing dashboards](view-dashboards.md)\.
+On the **Assets** page, you can view all properties and alarms of any asset that is associated with the projects to which you have access\. Portal administrators have access to all assets in the portal and can use the **Assets** page to explore individual assets before adding them to projects\. Dashboards provide a common visualization for all project viewers\. 
+
+The following procedures describe how to view asset data on the **Assets** page and how to view asset data from a project page\. For information about viewing asset data in dashboards, see [Viewing dashboards](view-dashboards.md)\.
 
 **To view asset data on the Assets page**
 
@@ -28,5 +30,6 @@ On the **Assets** page, you can look at all properties of any asset that is asso
    + <a name="modify-visualization-predefined-time"></a>Use the drop\-down list to choose a predefined time range to view\.
    + Use the time range control to open the calendar and specify a start and end time for your range\.
 
-1. Select the check boxes for two or more assets to compare their properties and property values\.  
-![\[The "Assets" page, with two equipment assets selected, and their properties displayed side-by-side.\]](http://docs.aws.amazon.com/iot-sitewise/latest/appguide/images/asset-library-compare-assets-console.png)
+1. Choose the **Alarms** tab to view the alarms for an asset\.
+
+1. Choose an alarm to view the alarm details and its state data as a time series\.

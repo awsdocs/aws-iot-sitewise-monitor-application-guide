@@ -2,7 +2,7 @@
 
 You can use AWS IoT SiteWise Monitor to provide a consistent way to share visualizations of asset properties with the right members of your business\. By providing consistent views of your data, you make it easier for others to understand your devices, processes, and equipment\. Each project in your AWS IoT SiteWise Monitor portal contains a set of dashboards that are available to the viewers that you invite to the project\.
 
-The project owner is responsible for creating a set of dashboards and visualizations for the asset properties associated with the project\. As a project owner, you decide which properties make sense to be viewed together, and what type of visualization will make it easiest for your viewers to understand the data\. You can also configure thresholds for visualizations to indicate when data exceeds normal operating ranges\.
+The project owner is responsible for creating a set of dashboards and visualizations for the asset properties and alarms associated with the project\. As a project owner, you decide which properties and alarms make sense to be viewed together, and what type of visualization is easiest for your viewers to understand the data\. You can also configure thresholds for visualizations to indicate when data exceeds normal operating ranges\. If a property has an alarm, the visualization automatically shows that alarm as a threshold\.
 
 You can perform the following data visualization tasks:
 

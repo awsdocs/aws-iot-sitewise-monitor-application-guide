@@ -1,6 +1,6 @@
 # Creating dashboards<a name="create-dashboards"></a>
 
-As a project owner, you create dashboards in AWS IoT SiteWise Monitor to provide a shared view of asset properties to your project viewers\. You can create a dashboard from the **Dashboards** page or while viewing a project's details\.
+As a project owner, you create dashboards in AWS IoT SiteWise Monitor to provide a shared view of asset properties and alarms to your project viewers\. You can create a dashboard from the **Dashboards** page or while viewing a project's details\.
 
 **To create a dashboard from the dashboards page**
 

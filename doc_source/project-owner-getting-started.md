@@ -9,7 +9,7 @@ Each portal in the AWS IoT SiteWise Monitor contains one or more projects\. A pr
 
 ## Exploring project assets and their data<a name="project-owner-exploring-assets"></a>
 
-You can explore the list of assets to which you have access to view their properties, and compare properties between two assets\. If you need additional assets in your project, you must contact your portal administrator\.
+You can explore the list of assets to which you have access to view their properties\. If you need additional assets in your project, you must contact your portal administrator\.
 
 **Note**  
 As a project owner, you can view only those assets that are contained in projects to which you have access\.
@@ -28,7 +28,7 @@ The following procedure assumes that you signed in the AWS IoT SiteWise Monitor 
 
 ## Creating dashboards to visualize data<a name="project-owner-creating-dashboards"></a>
 
-The primary activity for a project owner is to create dashboards that contain one or more visualizations that show the values of asset properties\. Creating a dashboard is quick and easy\.
+The primary activity for a project owner is to create dashboards that contain one or more visualizations that show the values of asset properties and alarms\. Creating a dashboard is quick and easy\.
 
 **To create dashboards**
 
@@ -41,28 +41,30 @@ The primary activity for a project owner is to create dashboards that contain on
 1. <a name="project-create-dashboard"></a>In the **Dashboards** section, choose **Create dashboard**\.  
 ![\[The dashboards list on the project details page with "Create dashboard" highlighted.\]](http://docs.aws.amazon.com/iot-sitewise/latest/appguide/images/project-create-dashboard-console.png)
 
-Next, you add one or more visualizations of asset properties to your dashboard\. 
+Next, you add one or more visualizations of asset properties and alarms to your dashboard\. 
 
 ## Configuring visualizations to understand data<a name="project-owner-configuring-visualizations"></a>
 
-Each dashboard can display one or more visualizations of the values of the asset properties in your project\. You can add a visualization for any property, and customize the details of the visualization\.
+Each dashboard can display one or more visualizations of the values of the asset properties and alarms in your project\. You can add a visualization for any property or alarm, and customize the details of the visualization\.
 
 **To configure visualizations**
 
 1. <a name="dashboard-configure-dashboard"></a>In the dashboard editor, change the dashboard name from the default, **New dashboard**, to something that describes the content****\.  
 ![\[The dashboard editor.\]](http://docs.aws.amazon.com/iot-sitewise/latest/appguide/images/dashboard-name-dashboard-console.png)
 
-1. <a name="dashboard-add-visualization"></a>Browse the list of project assets on the right side of the dashboard\. When you find a property to visualize, drag it to the dashboard\.
+1. <a name="dashboard-add-visualization"></a>Browse the list of project assets on the right side of the dashboard\. When you find a property or alarm to visualize, drag it to the dashboard\.
+   + The default visualization type for properties is the [line chart](choose-visualization-types.md#line-charts)\.
+   + The default visualization type for alarms is the [status grid widget](choose-visualization-types.md#status-grid-chart)\.
 **Note**  
-You can drag multiple properties onto a single visualization\.  
+You can drag multiple properties and alarms onto a single visualization\.  
 ![\[The dashboard editor.\]](http://docs.aws.amazon.com/iot-sitewise/latest/appguide/images/dashboard-add-visualization-console.png)
 
-1. <a name="dashboard-choose-visualization-type"></a>To change how your property displays, choose the visualization type\.  
+1. <a name="dashboard-choose-visualization-type"></a>To change how your data displays, choose the visualization type\.  
 ![\[A sample visualization with the visualization type icon highlighted.\]](http://docs.aws.amazon.com/iot-sitewise/latest/appguide/images/dashboard-edit-visualization-type-console.png)
 
    For more information about the available visualization types, see [Choosing visualization types](choose-visualization-types.md)\. To customize details of the visualization, see [Customizing visualizations](customize-visualizations.md)\.
 
-1. <a name="dashboard-configure-thresholds"></a>To add thresholds to your property, choose the visualization configuration icon\. For more information, see [Configuring thresholds](configure-thresholds.md)\.  
+1. <a name="dashboard-configure-thresholds"></a>To add thresholds to your property, choose the visualization configuration icon\. If you add a property that has an alarm, the visualization displays that alarm's threshold\. For more information, see [Configuring thresholds](configure-thresholds.md)\.  
 ![\[A sample visualization with the visualization configuration icon highlighted.\]](http://docs.aws.amazon.com/iot-sitewise/latest/appguide/images/dashboard-edit-visualization-configuration-console.png)
 
 1. To move a visualization, choose the control icon in the upper left and then drag the visualization to a new location\.  

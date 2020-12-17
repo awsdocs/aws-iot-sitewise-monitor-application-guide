@@ -2,7 +2,10 @@
 
 As a project owner, you can configure thresholds for your visualizations to indicate when asset properties are outside their normal operating ranges\. When you add a threshold, you define a rule and a color\. If at least one of a property's data points crosses the threshold for a selected time range, the visualization displays that property's legend in the color that you choose\. You can choose if the visualization also displays the property's data in the color that you choose\. You can add multiple thresholds to each visualization, and choose colors to represent severities\.
 
-In the following example, this threshold indicates when a wind farm's total power output is less than **30,000** watts\. The visualization displays the legend in green because the property value meets the threshold\.
+**Note**  
+If you add a property with an alarm to a visualization, the visualization automatically displays the alarm as a threshold\.
+
+The threshold in the following example indicates when a wind farm's total power output is less than **30,000** watts\. The visualization displays the legend in green because the property value meets the threshold\.
 
 ![\[A line graph visualization with a threshold.\]](http://docs.aws.amazon.com/iot-sitewise/latest/appguide/images/dashboard-threshold-line-graph-console.png)
 
@@ -34,6 +37,7 @@ You can add up to six thresholds to each visualization\.
    + **>** – Highlight properties that have at least one data point greater than the specified value\.
    + **≤** – Highlight properties that have at least one data point less than or equal to the specified value\.
    + **≥** – Highlight properties that have at least one data point greater than or equal to the specified value\.
+   + **=** – Highlight properties that have at least one data point equal to the specified value\.
 
 1. Enter a threshold value to compare data points with the specified operator\.
 
