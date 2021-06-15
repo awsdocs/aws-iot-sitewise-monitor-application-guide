@@ -17,19 +17,45 @@ If you don't have an AWS IoT SiteWise Monitor portal, contact your AWS administr
 
 ## Signing in to an AWS IoT SiteWise Monitor portal<a name="portal-login"></a>
 
-Whether you're a portal administrator, a project owner, or a viewer, your first step is to log in to the AWS IoT SiteWise Monitor application using your enterprise email and password\. Your credentials are validated using AWS Single Sign\-On to ensure that only authorized users can access your company assets\.
+Whether you're a portal administrator, a project owner, or a viewer, your first step is to sign in to the AWS IoT SiteWise Monitor application with your enterprise email and password, or AWS Identity and Access Management \(IAM\) credentials\. SiteWise Monitor validates your credentials with AWS Single Sign\-On or  IAM to ensure that only authorized users can access your company assets\.
 
-**To sign in to the AWS IoT SiteWise Monitor portal**
+You can choose one of the following to sign in to the AWS IoT SiteWise Monitor portal:
++ Use your AWS SSO identity\.
 
-1. Open the email that contains the link to the portal and open the web portal\.
+  1. Open the email that contains the link to the portal and open the web portal\.
 
-1. In the dialog box, for **Email**, enter your enterprise email address\.
+  1. In the dialog box, for **Email**, enter your enterprise email address\.
 
-1. For **Password**, enter your enterprise password\.
+  1. For **Password**, enter your enterprise password\.
 
-1. Choose **Sign In**\.
+  1. Choose **Sign in**\.
 
-   AWS SSO validates your credentials and, if valid, you can access the portal to perform tasks permitted for your role\.
+     AWS SSO validates your credentials and, if valid, opens the portal so that you can perform the tasks allowed for your role\.
++ Use your IAM identity\.
+  + 
+
+**If you use an IAM user, do the following:**
+
+    1. Open the link to the portal and open the web portal\. You might have received an email that contains the link\.
+
+    1. In the dialog box, enter your **IAM user name**\.
+
+    1. For **Password**, enter your IAM password\.
+
+    1. Choose **Sign in**\.
+
+       IAM validates your credentials and, if valid, opens the portal so that you can perform the tasks allowed for your role\.
+  + 
+
+**If you want to assume an IAM role, do the following:**
+
+    1. Sign in to the IAM with federation\.
+
+    1. Assume an IAM role\.
+
+    1. Open the the link to the portal and open the web portal\. You might have received an email that contains the link\.
+
+       If the IAM role was added to the portal, you automatically sign in to the portal\. You can now perform the tasks allowed for your role\.
 
 ## Navigation in the AWS IoT SiteWise Monitor portal<a name="portal-navigation"></a>
 

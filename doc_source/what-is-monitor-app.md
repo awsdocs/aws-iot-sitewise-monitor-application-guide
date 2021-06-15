@@ -27,9 +27,9 @@ The following image illustrates how these three roles, in addition to the AWS ad
 
 <a name="monitor-roles-diagram"></a>![\[AWS IoT SiteWise Monitor roles and what they do.\]](http://docs.aws.amazon.com/iot-sitewise/latest/appguide/images/monitor-roles.png)
 
-<a name="manage-access-with-sso-para"></a>You can manage who has access to your data by using AWS Single Sign\-On\. Your portal users don't need to access your AWS account\. They can sign in to SiteWise Monitor from a desktop or mobile browser using their corporate credentials or AWS SSO user credentials\.
+<a name="manage-access-para"></a>You can manage who has access to your data by using AWS Single Sign\-On or IAM\. Your data users can sign in to SiteWise Monitor from a desktop or mobile browser using their AWS SSO or IAM credentials\.
 
-Users other than the AWS administrator can access portals when they receive an email that contains a link to the portal\.
+Users other than the AWS administrator can access portals when they receive a link to the portal\.
 
 ## SiteWise Monitor concepts<a name="monitor-concepts"></a>
 

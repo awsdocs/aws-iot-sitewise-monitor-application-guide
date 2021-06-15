@@ -1,10 +1,11 @@
 # Document history for the AWS IoT SiteWise Monitor Application Guide<a name="document-history"></a>
 
 The following table describes the documentation for this release of AWS IoT SiteWise\.
-+ **Latest documentation update:** December 15, 2020
 
 | Change | Description | Date | 
 | --- |--- |--- |
+| [Alarms general availability](https://docs.aws.amazon.com/iot-sitewise/latest/appguide/monitor-alarms.html) | The alarms feature is now generally available\. Portal administrators can create alarm definitions in SiteWise Monitor portals | May 27, 2021 | 
+| [Region launch](https://docs.aws.amazon.com/general/latest/gr/iot-sitewise.html) | Launched AWS IoT SiteWise in China \(Beijing\)\. | February 3, 2021 | 
 | [Alarms](https://docs.aws.amazon.com/iot-sitewise/latest/appguide/monitor-alarms.html) | Added information about support for alarms in SiteWise Monitor\. You can visualize, configure, and respond to alarms to monitor your equipment and processes\. | December 15, 2020 | 
 | [Table visualization types](https://docs.aws.amazon.com/iot-sitewise/latest/appguide/choose-visualization-types.html#table-widgets) | Added information about the table visualization type\. You can use table widgets to display information about multiple properties in a compact visualization\. | November 24, 2020 | 
 | [Status property value labels](https://docs.aws.amazon.com/iot-sitewise/latest/appguide/choose-visualization-types.html#configure-status-widgets) | Added information about how to toggle asset property unit and value labels for status widgets\. | November 5, 2020 | 

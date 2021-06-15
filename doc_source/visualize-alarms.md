@@ -1,10 +1,5 @@
 # Visualizing alarms in dashboards<a name="visualize-alarms"></a>
 
-
-|  | 
-| --- |
-|  The alarms feature is in preview release for SiteWise Monitor and is subject to change\. We recommend that you use this feature only with test data, and not in production environments\.  | 
-
 Project owners can add alarms to dashboards to visualize alarm state as data and alarms as thresholds on other properties\.
 + Add a property with an alarm to a visualization to display the alarm as a threshold on that property's data\.
 + Add alarms to [status](choose-visualization-types.md#status-widgets) and [table](choose-visualization-types.md#table-widgets) widgets to display alarm state in a dashboard\.

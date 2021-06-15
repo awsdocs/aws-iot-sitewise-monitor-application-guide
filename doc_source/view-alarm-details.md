@@ -1,10 +1,5 @@
 # Viewing alarm details<a name="view-alarm-details"></a>
 
-
-|  | 
-| --- |
-|  The alarms feature is in preview release for SiteWise Monitor and is subject to change\. We recommend that you use this feature only with test data, and not in production environments\.  | 
-
 On the **Assets** page, you can view and respond to the alarms on any asset that is associated with your projects\. Portal administrators have access to all assets in the portal and can use the **Assets** page to view and configure all assets' alarms\.
 
 **To view details about an alarm**

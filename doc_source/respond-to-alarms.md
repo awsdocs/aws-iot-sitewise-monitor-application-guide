@@ -1,10 +1,5 @@
 # Responding to alarms<a name="respond-to-alarms"></a>
 
-
-|  | 
-| --- |
-|  The alarms feature is in preview release for SiteWise Monitor and is subject to change\. We recommend that you use this feature only with test data, and not in production environments\.  | 
-
 On the **Assets** page, you can respond to an alarm so that your team knows that you see the alarm\. When you respond to an alarm, you can leave a note with details about the alarm or the actions that you took\. If you don't acknowledge an active alarm before it becomes inactive, the alarm becomes latched\. The latched state indicates that the alarm became active and wasn't acknowledged\. You might need to check on the equipment or process and acknowledge the latched alarm\.
 
 You can do the following to respond to an alarm:

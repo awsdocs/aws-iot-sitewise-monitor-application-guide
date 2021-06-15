@@ -1,14 +1,14 @@
 # Monitoring with alarms<a name="monitor-alarms"></a>
 
-
-|  | 
-| --- |
-|  The alarms feature is in preview release for SiteWise Monitor and is subject to change\. We recommend that you use this feature only with test data, and not in production environments\.  | 
-
 Alarms alert you and your team when equipment or processes perform sub\-optimally\. Optimal performance of a machine or process means that the values for certain metrics should be within a range of high and low limits\. When these metrics are outside their operating range, equipment operators must be notified so that they can fix the issue\. Alarms help you quickly identify issues and notify operators to maximize performance of your equipment and processes\.
+
+**Note**  
+The alarm notifications feature isn't available in the China \(Beijing\) Region\.
 
 AWS IoT SiteWise Monitor supports two types of alarms:
 + Alarms that detect in the AWS Cloud – You can view and customize the thresholds and notification settings for these alarms\. You can also acknowledge and snooze these alarms\.
+**Important**  
+After you enable the alarms feature for your portals, members of your organization can create only AWS IoT Events alarms in your portals\.
 + External alarms – These alarms detect on external equipment and then send the alarm state to the AWS Cloud\. You can't customize, acknowledge, or snooze these alarms\. These alarms don't have any information other than their state\.
 
 Alarms have the following states:
@@ -24,12 +24,14 @@ You can perform the following alarm\-related tasks\.
 
 | Task | Required role | Description | 
 | --- | --- | --- | 
+|  [Creating alarm definitions](create-alarms.md)  |  Portal administrator  |  Create alarm definitions on models to monitor properties associated with the models\.  | 
 |  [Viewing alarm details](view-alarm-details.md)  |  Portal administrator, project owner, and project viewer  |  View details about the alarms that you can access\.  | 
 |  [Responding to alarms](respond-to-alarms.md)  |  Portal administrator, project owner, project viewer  |  Acknowledge or snooze the alarms that you can access\.  | 
 |  [Configuring alarms](configure-alarms.md)  |  Portal administrator, project owner  |  Customize the threshold and notification settings for the alarms that you can access\.  | 
 |  [Visualizing alarms in dashboards](visualize-alarms.md)  |  Portal administrator, project owner  |  Add alarms to dashboards to visualize alarm state or alarms as thresholds in your dashboards\.  | 
 
 **Topics**
++ [Creating alarm definitions](create-alarms.md)
 + [Viewing alarm details](view-alarm-details.md)
 + [Responding to alarms](respond-to-alarms.md)
 + [Configuring alarms](configure-alarms.md)

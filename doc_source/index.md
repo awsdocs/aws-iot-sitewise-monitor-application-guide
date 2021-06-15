@@ -1,7 +1,7 @@
 # AWS IoT SiteWise Monitor Application Guide
 
 -----
-*****Copyright &copy; 2020 Amazon Web Services, Inc. and/or its affiliates. All rights reserved.*****
+*****Copyright &copy; Amazon Web Services, Inc. and/or its affiliates. All rights reserved.*****
 
 -----
 Amazon's trademarks and trade dress may not be used in 
@@ -42,6 +42,7 @@ Amazon's trademarks and trade dress may not be used in
    + [Adjusting dashboard layout](adjust-layout.md)
    + [Deleting dashboards](delete-dashboards.md)
 + [Monitoring with alarms](monitor-alarms.md)
+   + [Creating alarm definitions](create-alarms.md)
    + [Viewing alarm details](view-alarm-details.md)
    + [Responding to alarms](respond-to-alarms.md)
    + [Configuring alarms](configure-alarms.md)

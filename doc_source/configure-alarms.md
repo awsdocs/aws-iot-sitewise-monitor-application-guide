@@ -1,10 +1,5 @@
 # Configuring alarms<a name="configure-alarms"></a>
 
-
-|  | 
-| --- |
-|  The alarms feature is in preview release for SiteWise Monitor and is subject to change\. We recommend that you use this feature only with test data, and not in production environments\.  | 
-
 On the **Assets** page, project owners can configure each alarm to set it up for their equipment and processes\. You can update the alarm's threshold value and notification settings\.
 
 **Notes**  
